@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.animationGDF {
+    width: auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    opacity: 0;
+
+    svg {
+        display: block;
+        width: auto;
+        height: 100vh;
+    }
+
+}
+
+.active-links,
+#animationGDF__popupClose {
+    cursor: pointer;
+}

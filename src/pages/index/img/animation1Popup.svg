@@ -1,0 +1,16 @@
+<svg data-content="changed"  preserveAspectRatio='xMidYMid slice'  class='animation1Popup' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2993.28" height="1683.84" viewBox="0 0 2993.28 1683.84">
+  <g id="animation1Popup">
+    <g id="popup_group">
+      <rect id="popup_bg" width="2993.28" height="1683.84" style="fill: #fff;opacity: 0.6"/>
+      <image id="popup_collout1" width="2221" height="1203" transform="translate(348.23 290.07)" xlink:href="./assets/img/popup_collout1.png"/>
+      <image id="popup_collout2" width="2221" height="1203" transform="translate(348.23 290.07)" xlink:href="./assets/img/popup_collout2.png"/>
+      <image id="popup_collout3" width="2221" height="1203" transform="translate(348.23 290.07)" xlink:href="./assets/img/popup_collout3.png"/>
+      <image id="popup_collout4" width="2221" height="1203" transform="translate(348.23 290.07)" xlink:href="./assets/img/popup_collout4.png"/>
+      <image id="popup_collout5" width="2221" height="1203" transform="translate(348.23 290.07)" xlink:href="./assets/img/popup_collout5.png"/>
+      <image id="popup_collout6" width="2221" height="1203" transform="translate(348.23 290.07)" xlink:href="./assets/img/popup_collout6.png"/>
+      <image id="popup_collout7" width="2221" height="1203" transform="translate(348.23 290.07)" xlink:href="./assets/img/popup_collout7.png"/>
+      <image id="popup_collout8" width="2226" height="1207" transform="translate(345.73 288.07)" xlink:href="./assets/img/popup_collout8.png"/>
+      <image id="popup_collout14" width="960" height="540" transform="translate(345.73 288.07) scale(2.32 2.24)" xlink:href="./assets/img/popup_collout14.png"/>
+    </g>
+  </g>
+</svg>

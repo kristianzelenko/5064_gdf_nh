@@ -1,0 +1,10 @@
+<svg data-content="changed"  preserveAspectRatio=''  class='popupBtn' xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375.94" height="117.26" viewBox="0 0 375.94 117.26">
+  <g id="slideGroup">
+    <g id="btnSlider">
+      <image width="731" height="228" transform="scale(0.51)" xlink:href="./assets/img/btnSlider.png"/>
+      <circle id="btnSliderLeft" cx="57.07" cy="58.63" r="37.48" style="fill: #fff;opacity: 0"/>
+      <circle id="btnSliderHome" cx="187.97" cy="58.63" r="37.48" style="fill: #fff;opacity: 0"/>
+      <circle id="btnSliderRight" cx="315.24" cy="58.63" r="37.48" style="fill: #fff;opacity: 0"/>
+    </g>
+  </g>
+</svg>
